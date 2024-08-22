@@ -1,0 +1,5 @@
+1- escreva um programa que leia as medidas dos lados de um triangulo e escreva se ele é equilatero, isósceles ou escaleno. Esse programa deve ser utilizado o processo de tomada de decisão.
+
+2-Faça um programa que verifique(usando if e selse) se uma letra digitada é "f" ou "M". conforme a letra escrever: F- Feminino, M-Masculino, Sexo inválido.
+
+3- faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina  ao longo de um semestre , e calcule a sua médida. A atribuicao de conceitos obedece à tabela abaixo.
